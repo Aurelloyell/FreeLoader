@@ -1,0 +1,46 @@
+[
+  {
+    "title": "CP 1: Arsitektur Berdasarkan Sejarah",
+    "description": "The Roots: Memahami akar sejarah arsitektur klasik dan gotik.",
+    "folderName": "cp1-Arsitektur-Berdasarkan-Sejarah",
+    "subChapters": [
+      {"title": "1.1 Arsitektur Klasik (Yunani & Romawi)", "folderName": "Arsitektur-Klasik"},
+      {"title": "1.2 Arsitektur Gotik (Gothic)", "folderName": "Arsitektur-Gotik"}
+    ]
+  },
+  {
+    "title": "CP 2: Arsitektur Era Revolusi Industri",
+    "description": "The Rebels: Perubahan radikal menuju gaya internasional.",
+    "folderName": "cp2-Arsitektur-Era-Revolusi-Industri",
+    "subChapters": [
+      {"title": "2.1 Arsitektur Modern", "folderName": "Arsitektur-Modern"},
+      {"title": "2.2 Brutalisme", "folderName": "Brutalisme"}
+    ]
+  },
+  {
+    "title": "CP 3: Gaya Populer Kekinian",
+    "description": "Commercial Trends: Minimalis dan Industrial.",
+    "folderName": "cp3-Gaya-Populer-Kekinian",
+    "subChapters": [
+      {"title": "3.1 Arsitektur Minimalis", "folderName": "Arsitektur-Minimalis"},
+      {"title": "3.2 Arsitektur Industrial", "folderName": "Arsitektur-Industrial"}
+    ]
+  },
+  {
+    "title": "CP 4: Arsitektur Berbasis Lingkungan",
+    "description": "Contextual: Merespon iklim dan keberlanjutan.",
+    "folderName": "cp4-Arsitektur-Berbasis-Lingkungan",
+    "subChapters": [
+      {"title": "4.1 Arsitektur Tropis", "folderName": "Arsitektur-Tropis"},
+      {"title": "4.2 Arsitektur Hijau", "folderName": "Arsitektur-Hijau"}
+    ]
+  },
+  {
+    "title": "CP 5: Arsitektur Nusantara",
+    "description": "Local Wisdom: Kekayaan arsitektur lokal.",
+    "folderName": "cp5-Arsitektur-Nusantara",
+    "subChapters": [
+      {"title": "5.1 Arsitektur Vernakular", "folderName": "Arsitektur-Vernakular"}
+    ]
+  }
+]
